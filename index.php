@@ -6,23 +6,24 @@
 	
 	<body>
 		<div class="container">
-		<div class="navbar">
-			<img src="images/logo/white1.jpg" class="logo">
+		    <div class="navbar">
+			    <img src="images/logo/white1.png" class="logo">
 				<ul>
 				    <li><a href="signup.html">SIGN UP</a></li>
 				    <li><a href="login.html">LOGIN</a></li>
 				</ul>
-	    </div>
-	    <div id="pic">
-	        <img src="images/bg.jpeg" width="1355px" height="500px">
-	    </div>
-		
+	        </div>
+	        <!-- <div id="pic">
+	            <img src="images/bg.jpeg" width="1355px" height="500px">
+	        </div> -->
+        </div>
+
         <!--######################     FOOTER SECTION     ########################-->
 	   
         <footer>
             <div class="footer">
                 <div class="footer-logo">
-                    <img src="images/logo/white1.png" alt="logo" class="logo">
+                    <img src="images/logo/black1.png" class="logo">
                 </div>
                 <br>
                 <div class="footer-links">

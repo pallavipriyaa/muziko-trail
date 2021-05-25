@@ -13,9 +13,9 @@
 				    <li><a href="login.html">LOGIN</a></li>
 				</ul>
 	        </div>
-	        <!-- <div id="pic">
-	            <img src="images/bg.jpeg" width="1355px" height="500px">
-	        </div> -->
+	        <div id="pic">
+	            <img src="images/bg.jpeg" width="100%" height="">
+	        </div>
         </div>
 
         <!--######################     FOOTER SECTION     ########################-->

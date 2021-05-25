@@ -64,6 +64,7 @@
                         <div class="form-group">
                             <input type="submit" value="SUBMIT" name="submit" class="button">
                         </div>
+                            <br>
 				            Already have an account? <a href="index.php">Login</a>
                     </form>
                 </div>

@@ -32,7 +32,7 @@
         <center>
             <div class="banner">
                 <div class="form">
-                    <form class="form-signup" action="insert.php" method="POST">
+                    <form class="form-signup" action="signup_script.php" method="POST">
                         <h1>SIGN UP</h1>
                         <br>
                         <div class="form-group">

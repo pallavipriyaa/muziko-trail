@@ -20,7 +20,7 @@
         <div class="navbar">
             <img src="images/logo/white1.png" class="logo">
             <ul>
-                <li><a href="#">HOME</a></li>
+                <li><a href="home.php">HOME</a></li>
                 <li><a href="#">ABOUT</a></li>
                 <li><a href="#">CONTACT</a></li>
                 <li><a href="#">SIGN UP</a></li>

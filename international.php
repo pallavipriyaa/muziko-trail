@@ -97,9 +97,10 @@
 
         <!-- ******* MUSIC / MAIN SECTION ******** -->
         <div class="content">
+            <h2>Artists Of The Month</h2>
             <div class="artist">
                 <img src="images/saleena.jpeg" class="artist-img" alt="Saleena Gomez">
-                <h3>Saleena Gomez</h3>
+                <h3>Selena Gomez</h3>
             </div>
             <div class="artist">
                 <img src="images/alanwalker.jpeg" class="artist-img" alt="Alan Walker">

@@ -81,6 +81,7 @@
             </div>
         </div>
         </div>
+        
         <!-- *******  JAVASCRIPT FOR IMAGE SLIDER  ******* -->
         <script type="text/javascript">
         var counter = 1;
@@ -93,6 +94,26 @@
         }, 5000);
 
         </script>
+
+        <!-- ******* MUSIC / MAIN SECTION ******** -->
+        <div class="content">
+            <div class="artist">
+                <img src="images/saleena.jpeg" class="artist-img" alt="Saleena Gomez">
+                <h3>Saleena Gomez</h3>
+            </div>
+            <div class="artist">
+                <img src="images/alanwalker.jpeg" class="artist-img" alt="Alan Walker">
+                <h3>Alan Walker</h3>
+            </div>       
+            <div class="artist">
+                <img src="images/taylorswift.jpeg" class="artist-img" alt="Taylor Swift">
+                <h3>Taylor Swift</h3>
+            </div>
+            <div class="artist">
+                <img src="images/justin.jpeg" class="artist-img" alt="Justin Bieber">
+                <h3>Justin Bieber</h3>
+            </div>
+        </div>
         
         <!-- *******  FOOTER  ******* -->
         <footer>

@@ -18,6 +18,8 @@
         </div> 
 
         <!-- ******  CAROUSEL / IMAGE SLIDER  ******-->
+        
+        <center>
         <div class="slider-content">
         <div class="slider">
             <div class="slides">
@@ -32,28 +34,28 @@
 
 
                 <div  class="slide first">
-                    <img src="images/taylor.jpg" alt="">
+                    <img src="images/1.png" alt="">
                 </div>
                 <div  class="slide">
-                    <img src="images/avamax.jpg" alt="">
+                    <img src="images/4.png" alt="">
                 </div>
                 <div  class="slide">
-                    <img src="images/salanwalker.jpg" alt="">
+                    <img src="images/5.png" alt="">
                 </div>
                 <div  class="slide">
-                    <img src="images/sbillie.jpg" alt="">
+                    <img src="images/6.png" alt="">
                 </div>
                 <div  class="slide">
-                    <img src="images/sjustin.jpeg" alt="">
+                    <img src="images/7.png" alt="">
                 </div>
                 <div  class="slide">
-                    <img src="images/sariana.jpg" alt="">
+                    <img src="images/9.png" alt="">
                 </div>
                 <div  class="slide">
-                    <img src="images\sdovecameron.jpg" alt="">
+                    <img src="images/10.png" alt="">
                 </div>
                 <div  class="slide">
-                    <img src="images\sedsheeran.jpg" alt="">
+                    <img src="images/2.png" alt="">
                 </div>
                 
                 <div class="nav-auto">
@@ -77,11 +79,11 @@
                     <label for="radio7" class="manual-btn"></label>
                     <label for="radio8" class="manual-btn"></label>
                 </div>
-
             </div>
         </div>
         </div>
-        
+        </center>
+
         <!-- *******  JAVASCRIPT FOR IMAGE SLIDER  ******* -->
         <script type="text/javascript">
         var counter = 1;
@@ -96,25 +98,248 @@
         </script>
 
         <!-- ******* MUSIC / MAIN SECTION ******** -->
-        <div class="content">
+        
             <h2>Artists Of The Month</h2>
-            <div class="artist">
-                <img src="images/saleena.jpeg" class="artist-img" alt="Saleena Gomez">
-                <h3>Selena Gomez</h3>
+            <div class="content">                
+                <div class="artist">
+                    <a href="#">
+                    <img src="images/saleena.jpeg" class="artist-img" alt="Saleena Gomez">
+                    <h4>Selena Gomez</h4>
+                    </a>
+                </div>
+                <div class="artist">
+                    <a href="#">
+                    <img src="images/alanwalker.jpeg" class="artist-img" alt="Alan Walker">
+                    <h4>Alan Walker</h4>
+                    </a>
+                </div>       
+                <div class="artist">
+                    <a href="#">
+                    <img src="images/taylorswift.jpeg" class="artist-img" alt="Taylor Swift">
+                    <h4>Taylor Swift</h4>
+                    </a>
+                </div>
+                <div class="artist">
+                    <a href="#">
+                    <img src="images/justin.jpeg" class="artist-img" alt="Justin Bieber">
+                    <h4>Justin Bieber</h4>
+                    </a>
+                </div>
             </div>
-            <div class="artist">
-                <img src="images/alanwalker.jpeg" class="artist-img" alt="Alan Walker">
-                <h3>Alan Walker</h3>
-            </div>       
-            <div class="artist">
-                <img src="images/taylorswift.jpeg" class="artist-img" alt="Taylor Swift">
-                <h3>Taylor Swift</h3>
+        
+
+            <h2>Genres</h2>
+            <div class="album">
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/kpop.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/hiphop.png" class="genre-poster" alt="">
+                    <h4>Hip Hop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images\posters\folkrock.png" class="genre-poster" alt="">
+                    <h4>Folk Rocks</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/rock.png" class="genre-poster" alt="">
+                    <h4>Rock</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/jazzfunk.png" class="genre-poster" alt="">
+                    <h4>Jazz & Funk</h4>
+                    </a>
+                </div>
             </div>
-            <div class="artist">
-                <img src="images/justin.jpeg" class="artist-img" alt="Justin Bieber">
-                <h3>Justin Bieber</h3>
+
+            <h2>Pick Your Mood</h2>
+            <div class="album">
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/1.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/2.png" class="genre-poster" alt="">
+                    <h4>Hip Hop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/3.png" class="genre-poster" alt="">
+                    <h4>Rock</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/4.png" class="genre-poster" alt="">
+                    <h4>Jazz & Funk</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/5.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
             </div>
-        </div>
+            <div class="album">
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/11.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/6.png" class="genre-poster" alt="">
+                    <h4>Hip Hop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/7.png" class="genre-poster" alt="">
+                    <h4>Rock</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/8.png" class="genre-poster" alt="">
+                    <h4>Jazz & Funk</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/9.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+            </div>
+
+            <h2>Top Charts</h2>
+            <div class="album">
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/12.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/13.png" class="genre-poster" alt="">
+                    <h4>Hip Hop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/16.png" class="genre-poster" alt="">
+                    <h4>Rock</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/14.png" class="genre-poster" alt="">
+                    <h4>Jazz & Funk</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/15.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+            </div>
+            <div class="album">
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/17.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/18.png" class="genre-poster" alt="">
+                    <h4>Hip Hop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/19.png" class="genre-poster" alt="">
+                    <h4>Rock</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/20.png" class="genre-poster" alt="">
+                    <h4>Jazz & Funk</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/21.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+            </div>
+
+            <h2>Weekly Jukebox</h2>
+            <div class="album">
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/mon.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/tue.png" class="genre-poster" alt="">
+                    <h4>Hip Hop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/wed.png" class="genre-poster" alt="">
+                    <h4>Rock</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/thu.png" class="genre-poster" alt="">
+                    <h4>Jazz & Funk</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/fri.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/sat.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/sun.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+            </div>
+
         
         <!-- *******  FOOTER  ******* -->
         <footer>

@@ -24,7 +24,7 @@
                 </div>
                 <!-- ********* SECOND IMAGE ******* -->
                 <div class="content">
-                    <a href="#"><figure class="img2"><img src="images/avamax.jpg" alt="International Music" class="image2"></figure>
+                    <a href="#"><figure class="img2"><img src="images/imagecopy/avamax.jpg" alt="International Music" class="image2"></figure>
                     <div class="img-overlay">
                         <div class="img-title">International Music</div>
                         <p class="img-des">Listen to your favourite International Music here..</p>

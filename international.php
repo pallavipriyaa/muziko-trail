@@ -194,8 +194,8 @@
                     <h4>K-Pop</h4>
                     </a>
                 </div>
-            </div>
-            <div class="album">
+            <!-- </div>
+            <div class="album"> -->
                 <div class="genre">
                     <a href="#">
                     <img src="images/posters/11.png" class="genre-poster" alt="">
@@ -260,8 +260,8 @@
                     <h4>K-Pop</h4>
                     </a>
                 </div>
-            </div>
-            <div class="album">
+            <!-- </div>
+            <div class="album"> -->
                 <div class="genre">
                     <a href="#">
                     <img src="images/posters/17.png" class="genre-poster" alt="">
@@ -295,6 +295,52 @@
             </div>
 
             <h2>Weekly Jukebox</h2>
+            <div class="album">
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/mon.png" class="genre-poster" alt="">
+                    <h4>Monday Mix</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/tue.png" class="genre-poster" alt="">
+                    <h4>Hip Hop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/wed.png" class="genre-poster" alt="">
+                    <h4>Rock</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/thu.png" class="genre-poster" alt="">
+                    <h4>Jazz & Funk</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/fri.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/sat.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+                <div class="genre">
+                    <a href="#">
+                    <img src="images/posters/sun.png" class="genre-poster" alt="">
+                    <h4>K-Pop</h4>
+                    </a>
+                </div>
+            </div>
+
+            <h2>Podcasts</h2>
             <div class="album">
                 <div class="genre">
                     <a href="#">

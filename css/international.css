@@ -9,7 +9,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgba(0, 0, 0, 0.990);
+    background: rgba(0, 0, 0, 0.99);
     
 }
 .container{
@@ -209,23 +209,39 @@ h4{
     letter-spacing: 1px;
 
 }
-
 .album{
     width: 100%;
     height: auto;
-    display: flex;
     justify-content: space-around;
     align-items: center;
-
+    overflow: auto;
+    overflow-x: scroll;
+    white-space: nowrap;
+}
+.album::-webkit-scrollbar{
+    width: 5px;
+    height: 8px;
+}
+.album::-webkit-scrollbar-track{
+    border-radius: 10px;
+    background: black;
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.9);
+}
+.album::-webkit-slider-thumb{
+    border-radius: 10px;
+    background: linear-gradient(rgb(255, 255, 255), gray);
+    box-shadow: inset 0 0 6px rgba(0, 0, 0, 0.1);
 }
 .genre{
     padding-top: 3%;
     width: 18%;
-    height: 250px;
-    padding-bottom: 10%;
+    height: 400px;
+    padding-bottom: 1%;
     padding-left: 5px;
     padding-right: 5px;
+    display: inline-block;
 }
+
 a{
     text-decoration: none;
     color: rgb(255, 255, 255);
@@ -234,6 +250,7 @@ a{
 .genre-poster{
     width: 100%;
     border-radius: 10px;
+
 }
 
 
@@ -244,12 +261,13 @@ footer{
     position: sticky;
     padding-bottom: 0%;
     margin-bottom: 0%;
+    margin-top: 20px;
 }
 .footer-logo{
     padding: 30px 0;
 }
 table{
-    padding-left: 40px;
+    padding-left: 5%;
 
 }
 th {

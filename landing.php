@@ -7,7 +7,7 @@
 <body bgcolor="black">
     <div class="container">
         <div class="navbar">
-            <img src="assets/images/logo1.png" class="logo">
+            <img src="images/white1.png" class="logo">
             <ul>
                 <li><a href="signup.php">SIGN UP</a></li>
                 <li><a href="index.php">LOGIN</a></li>

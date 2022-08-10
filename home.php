@@ -8,9 +8,6 @@
 
     <div class="waveWrapper waveAnimation">
         <div class="waveWrapperInner bgTop">
- 
-
-
             <div class="container">
                 <!-- ********* FIRST IMAGE ******* -->
                 <div class="content">
@@ -20,18 +17,16 @@
                         <p class="img-des">Listen to your favourite Indian Music here..</p>
                     </div>
                     </a>
-                    
                 </div>
                 <!-- ********* SECOND IMAGE ******* -->
                 <div class="content">
-                    <a href="#"><figure class="img2"><img src="images/imagecopy/avamax.jpg" alt="International Music" class="image2"></figure>
+                    <a href="international.html"><figure class="img2"><img src="images/imagecopy/avamax.jpg" alt="International Music" class="image2"></figure>
                     <div class="img-overlay">
                         <div class="img-title">International Music</div>
                         <p class="img-des">Listen to your favourite International Music here..</p>
                     </div>
                     </a>
                 </div> 
-
             </div>
             <br><br><br><br>
             <center>
@@ -48,7 +43,5 @@
             <div class="wave waveBottom" style="background-image: url('http://front-end-noobs.com/jecko/img/wave-bot.png')"></div>
         </div>
     </div>
-
-    
 </body>
 </html>
